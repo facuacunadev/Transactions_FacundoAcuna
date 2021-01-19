@@ -13,6 +13,9 @@ There is also an API for operations with the accounts.
 
 
 ## Preparation and use
+Before you run the angular app remember reinstall the packager with the following command
+npm install
+
 The API operations can be tested with Postman or another tool.
 Here is how to use each of the available operations:
 
