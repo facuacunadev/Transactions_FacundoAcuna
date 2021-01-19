@@ -29,15 +29,15 @@ POST operation:
 Create a new transaction for the account, the parameter must be a json in the body
 of the request as shown below
 
-{
-"id": 5,
-"amount": 600.00,
-"effectiveDate": "2021-01-19",
-"type": 1,
-"accountId": 1
-}
+  {
+    "id": 5,
+    "amount": 600.00,
+    "effectiveDate": "2021-01-19",
+    "type": 1,
+    "accountId": 1
+  }
 
-URL: https://localhost:44393/api/ transactions
+URL: https://localhost:44393/api/transactions
 
 
 ## Features
