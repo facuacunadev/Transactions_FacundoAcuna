@@ -1,7 +1,5 @@
 # Transactions_FacundoAcuna
 
-
-# Transactions Application
 This repository contains the definition for the operation of the application for technical test.
 One part consists of an Angular 10 application that displays on the screen the list of transactions for
 One account.
